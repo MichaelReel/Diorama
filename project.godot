@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Diorama"
+run/main_scene="res://Diorama.tscn"
 config/icon="res://icon.png"
 
 [rendering]
